@@ -1,4 +1,8 @@
-# TO DO
+# Purpose of this Proect
+Summary goes here
+
+
+# To Do
 - Home Page
 - Authentication
 - Dashboard
@@ -6,14 +10,14 @@
 - Applications Page
 - Filter
 
-# GOAL OF THE WEEK
+# Goal of the week
 - Home Page
 - Dashboard
 
-# FUTURE GOALS
+# Future Goals
 - Logo
 - Icons
 
-# Assinged Tasks
+# Assigned Tasks
 - Ryan (Backend Development)
 - Aaron (Front-End Development)
