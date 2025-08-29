@@ -1,4 +1,4 @@
-# Purpose of this Proect
+# Purpose of this Project
 Summary goes here
 
 
