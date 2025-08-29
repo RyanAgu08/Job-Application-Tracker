@@ -205,9 +205,8 @@ export function Dashboard({ applications = mockApplications }: DashboardProps) {
         {/* Header */}
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold text-gray-900 flex items-center gap-2">
-              <BarChart3 className="h-8 w-8" />
-              Job Application Dashboard
+            <h1 className="text-3xl font-bold text-gray-900">
+              Dashboard
             </h1>
             <p className="text-gray-600 mt-1">
               Track your job search progress and insights
