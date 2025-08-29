@@ -2,6 +2,10 @@
 Summary goes here
 
 
+# Tech Stack
+- Frontend: React
+- Backend: Node.js
+
 # To Do
 - Home Page
 - Authentication
